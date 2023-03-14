@@ -1,2 +1,2 @@
 # jam3ea
-Read me file created in github
+this is the Jam3ea project
