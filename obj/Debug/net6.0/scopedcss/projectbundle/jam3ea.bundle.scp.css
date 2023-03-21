@@ -18,6 +18,12 @@ a[b-hfxyr1iqu2] {
   border-color: #1861ac;
 }
 
+.sidebar[b-hfxyr1iqu2] {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 .nav-pills .nav-link.active[b-hfxyr1iqu2], .nav-pills .show > .nav-link[b-hfxyr1iqu2] {
   color: #fff;
   background-color: #1b6ec2;
